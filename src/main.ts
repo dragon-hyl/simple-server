@@ -10,7 +10,6 @@ async function bootstrap() {
   app.setGlobalPrefix('api/v1'); // 路径前缀 如：http://www.localhost:3000/api/v1/user
   const PREFIX = '/api-docs';
 
-  // 测试 git 的配置
   /**
    * swagger 文档配置
    */
